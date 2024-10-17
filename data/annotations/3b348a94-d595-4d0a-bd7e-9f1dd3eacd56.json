@@ -1,0 +1,84 @@
+{
+  "event_id": "466c9e4b-44f9-42a4-af36-84a11d7a2808",
+  "source_id": "f7d8f345-3e40-4f1e-ac63-11da04f8e7d5",
+  "set": "Critic's Roundtable: African American Poetry and the Vernacular Matrix, 1994 September 29, Tape 2 [FF0033] [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 240,
+      "annotation": [
+        {
+          "text": "1"
+        }
+      ],
+      "tags": [],
+      "uuid": "97823053-e6d4-4557-8f18-75160520b2c8"
+    },
+    {
+      "start_time": 0,
+      "end_time": 240,
+      "annotation": [
+        {
+          "text": "Video begins in the middle of Eleanor W. Traylor speaking;"
+        }
+      ],
+      "tags": [],
+      "uuid": "bf132caa-c59f-4266-9e91-ec8e9fe3e586"
+    },
+    {
+      "start_time": 280,
+      "end_time": 292,
+      "annotation": [
+        {
+          "text": "2"
+        }
+      ],
+      "tags": [],
+      "uuid": "ed5e944b-8762-4a4a-80ed-53bc3c7e5f63"
+    },
+    {
+      "start_time": 280,
+      "end_time": 292,
+      "annotation": [
+        {
+          "text": "Alvin Aubert introduces Sherley Anne Williams;"
+        }
+      ],
+      "tags": [],
+      "uuid": "fc3f17b8-1380-4cca-ba20-fcbd570d0fea"
+    },
+    {
+      "start_time": 292,
+      "end_time": 293,
+      "annotation": [
+        {
+          "text": "3"
+        }
+      ],
+      "tags": [],
+      "uuid": "5dbddd73-740f-4b61-9c20-3bd176f9b82a"
+    },
+    {
+      "start_time": 292,
+      "end_time": 293,
+      "annotation": [
+        {
+          "text": "Williams begins speaking;"
+        }
+      ],
+      "tags": [],
+      "uuid": "0ec4fd40-3e25-4fe8-acb0-dc64da8eddbe"
+    },
+    {
+      "start_time": 294,
+      "end_time": 3547,
+      "annotation": [
+        {
+          "text": "Duplicate of Tape 3"
+        }
+      ],
+      "tags": [],
+      "uuid": "4fbd700e-3151-4b3b-a173-79a413863c07"
+    }
+  ]
+}

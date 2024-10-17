@@ -1,0 +1,117 @@
+{
+  "event_id": "8cd2558a-ac4d-4b15-b8d8-66f32a52ec79",
+  "source_id": "ce44e958-d007-48d8-a060-608e89cbe4f2",
+  "set": "Critic's Roundtable: African American Poetry and the Vernacular Matrix, 1994 September 29, Tape 1 [FF0034] [Index]",
+  "annotations": [
+    {
+      "start_time": 5,
+      "end_time": 85,
+      "annotation": [
+        {
+          "text": "1"
+        }
+      ],
+      "tags": [],
+      "uuid": "4019b39a-a107-4eb1-826f-3d84f056a0e0"
+    },
+    {
+      "start_time": 5,
+      "end_time": 85,
+      "annotation": [
+        {
+          "text": "video begins in the middle of Alvin Aubert introducing Roundtable panel discussion"
+        }
+      ],
+      "tags": [],
+      "uuid": "0cdcff69-3a1c-44b4-a171-712853a43e62"
+    },
+    {
+      "start_time": 85,
+      "end_time": 700,
+      "annotation": [
+        {
+          "text": "2"
+        }
+      ],
+      "tags": [],
+      "uuid": "483cac56-3583-4c6d-85c9-c49dcee073ec"
+    },
+    {
+      "start_time": 85,
+      "end_time": 700,
+      "annotation": [
+        {
+          "text": "01:25 Aubert stands and presents"
+        }
+      ],
+      "tags": [],
+      "uuid": "e74d3721-e554-48ab-b10f-3b3e24c703ea"
+    },
+    {
+      "start_time": 700,
+      "end_time": 2297,
+      "annotation": [
+        {
+          "text": "3"
+        }
+      ],
+      "tags": [],
+      "uuid": "c36d6746-a62f-4adc-8a8a-a567c0d0c725"
+    },
+    {
+      "start_time": 700,
+      "end_time": 2297,
+      "annotation": [
+        {
+          "text": "11:40 Elizabeth Alexander speaks"
+        }
+      ],
+      "tags": [],
+      "uuid": "3e42ece7-9645-4dbe-beb4-d9b934f09202"
+    },
+    {
+      "start_time": 2297,
+      "end_time": 2318,
+      "annotation": [
+        {
+          "text": "4"
+        }
+      ],
+      "tags": [],
+      "uuid": "1a55d188-8f52-4b9a-afa5-e857bbfebcce"
+    },
+    {
+      "start_time": 2297,
+      "end_time": 2318,
+      "annotation": [
+        {
+          "text": "38:17 Aubert introduces Eleanor W. Traylor"
+        }
+      ],
+      "tags": [],
+      "uuid": "f437b72d-95c3-412f-9247-a92410105ba5"
+    },
+    {
+      "start_time": 2318,
+      "end_time": 3835,
+      "annotation": [
+        {
+          "text": "5"
+        }
+      ],
+      "tags": [],
+      "uuid": "fbf525eb-8769-47c4-829e-109319cffc93"
+    },
+    {
+      "start_time": 2318,
+      "end_time": 3835,
+      "annotation": [
+        {
+          "text": "Traylor speaks; video ends during Traylor's talk"
+        }
+      ],
+      "tags": [],
+      "uuid": "b4ed2ad1-12e4-43af-a848-632c3f7be890"
+    }
+  ]
+}

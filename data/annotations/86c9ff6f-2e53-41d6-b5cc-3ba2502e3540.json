@@ -1,0 +1,447 @@
+{
+  "event_id": "b61ee7d8-97d1-41b7-98d1-38b9ecabd83b",
+  "source_id": "f2727425-6242-4ab2-a536-20f7a0a7edb5",
+  "set": "Critic's Roundtable: African American Poetry and the Vernacular Matrix, 1994 September 29, Tape 3 [FF0031] [Index]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "text": "1"
+        }
+      ],
+      "tags": [],
+      "uuid": "adc4b161-b548-4a94-8a8e-731394592446"
+    },
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "text": "Sherley Anne Williams speaks;"
+        }
+      ],
+      "tags": [],
+      "uuid": "e8597189-244a-4cb7-8d43-bb2f141c5642"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 1185,
+      "annotation": [
+        {
+          "text": "2"
+        }
+      ],
+      "tags": [],
+      "uuid": "60b707f5-10b1-4c46-8fc1-6dbdd389d21b"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 1185,
+      "annotation": [
+        {
+          "text": "Alvin Aubert speaks;"
+        }
+      ],
+      "tags": [],
+      "uuid": "db0f476f-78de-4ed3-b9cc-4d99f1fc7550"
+    },
+    {
+      "start_time": 1185,
+      "end_time": 1192,
+      "annotation": [
+        {
+          "text": "3"
+        }
+      ],
+      "tags": [],
+      "uuid": "b48a3221-342a-4b94-ac85-81bfc9cbc6b9"
+    },
+    {
+      "start_time": 1185,
+      "end_time": 1192,
+      "annotation": [
+        {
+          "text": "Joanne Gabbin instructs participants;"
+        }
+      ],
+      "tags": [],
+      "uuid": "36a8b0ad-c26b-4692-931a-bbfbaa300cb6"
+    },
+    {
+      "start_time": 1192,
+      "end_time": 1273,
+      "annotation": [
+        {
+          "text": "4"
+        }
+      ],
+      "tags": [],
+      "uuid": "f3a4f7be-8b9b-432b-b4fe-12e61f3bb728"
+    },
+    {
+      "start_time": 1192,
+      "end_time": 1273,
+      "annotation": [
+        {
+          "text": "Darrell Stover addresses the panel;"
+        }
+      ],
+      "tags": [],
+      "uuid": "84dfe8d2-7b7d-4041-a146-f54d1b3952d0"
+    },
+    {
+      "start_time": 1273,
+      "end_time": 1317,
+      "annotation": [
+        {
+          "text": "5"
+        }
+      ],
+      "tags": [],
+      "uuid": "31566198-c162-419e-a338-62d7e68a971d"
+    },
+    {
+      "start_time": 1273,
+      "end_time": 1317,
+      "annotation": [
+        {
+          "text": "Elizabeth Alexander responds to Stover;"
+        }
+      ],
+      "tags": [],
+      "uuid": "08216088-1003-4c41-8a64-950a6f184ec6"
+    },
+    {
+      "start_time": 1317,
+      "end_time": 1461,
+      "annotation": [
+        {
+          "text": "6"
+        }
+      ],
+      "tags": [],
+      "uuid": "80535cc6-a5d7-44e1-a0bd-db5f64fe3d34"
+    },
+    {
+      "start_time": 1317,
+      "end_time": 1461,
+      "annotation": [
+        {
+          "text": "Eleanor W. Traylor responds to Stover;"
+        }
+      ],
+      "tags": [],
+      "uuid": "64601e5c-2791-494a-989c-80c5b57fe54d"
+    },
+    {
+      "start_time": 1461,
+      "end_time": 1656,
+      "annotation": [
+        {
+          "text": "7"
+        }
+      ],
+      "tags": [],
+      "uuid": "b89d1969-6597-4572-8c84-eb35e7e2de32"
+    },
+    {
+      "start_time": 1461,
+      "end_time": 1656,
+      "annotation": [
+        {
+          "text": "Aubert responds to unidentified audience member;"
+        }
+      ],
+      "tags": [],
+      "uuid": "84cc8e4e-76ee-4573-a30a-c799f37f8ee7"
+    },
+    {
+      "start_time": 1656,
+      "end_time": 1710,
+      "annotation": [
+        {
+          "text": "8"
+        }
+      ],
+      "tags": [],
+      "uuid": "5ba47162-ec2d-4d3d-a0d2-44330a22df48"
+    },
+    {
+      "start_time": 1656,
+      "end_time": 1710,
+      "annotation": [
+        {
+          "text": "Shahara Brookins Drew addresses panel;"
+        }
+      ],
+      "tags": [],
+      "uuid": "05f7c1df-d7a6-4e31-8377-f7323cf0c87b"
+    },
+    {
+      "start_time": 1710,
+      "end_time": 1780,
+      "annotation": [
+        {
+          "text": "9"
+        }
+      ],
+      "tags": [],
+      "uuid": "9de2cc8f-4851-4ac0-ab7a-85b407da0396"
+    },
+    {
+      "start_time": 1710,
+      "end_time": 1780,
+      "annotation": [
+        {
+          "text": "Williams responds to Drew;"
+        }
+      ],
+      "tags": [],
+      "uuid": "f732000e-40b0-4321-a179-ae63faee88da"
+    },
+    {
+      "start_time": 1780,
+      "end_time": 1800,
+      "annotation": [
+        {
+          "text": "10"
+        }
+      ],
+      "tags": [],
+      "uuid": "2eeb61a9-5d8b-44b1-a689-aa1273cbe083"
+    },
+    {
+      "start_time": 1780,
+      "end_time": 1800,
+      "annotation": [
+        {
+          "text": "Aubert briefly responds;"
+        }
+      ],
+      "tags": [],
+      "uuid": "cd7bfdab-6ea8-4c44-91c9-f83aeb160ec0"
+    },
+    {
+      "start_time": 1800,
+      "end_time": 1848,
+      "annotation": [
+        {
+          "text": "11"
+        }
+      ],
+      "tags": [],
+      "uuid": "124b3759-d3bc-4d13-98f9-952827b1568e"
+    },
+    {
+      "start_time": 1800,
+      "end_time": 1848,
+      "annotation": [
+        {
+          "text": "Adam David Miller addresses panel on the influence of the Gospel/Spirituals;"
+        }
+      ],
+      "tags": [],
+      "uuid": "2eef5587-27a9-410b-8f1a-c5990de45e55"
+    },
+    {
+      "start_time": 1848,
+      "end_time": 2008,
+      "annotation": [
+        {
+          "text": "12"
+        }
+      ],
+      "tags": [],
+      "uuid": "adbe7bcd-f8cd-409c-bd23-0eceb12116a5"
+    },
+    {
+      "start_time": 1848,
+      "end_time": 2008,
+      "annotation": [
+        {
+          "text": "Williams responds to Miller;"
+        }
+      ],
+      "tags": [],
+      "uuid": "fa16eca1-769e-48ff-9480-6d35497f220f"
+    },
+    {
+      "start_time": 2008,
+      "end_time": 2110,
+      "annotation": [
+        {
+          "text": "13"
+        }
+      ],
+      "tags": [],
+      "uuid": "b50b866a-8feb-4743-944c-b2c80408b39d"
+    },
+    {
+      "start_time": 2008,
+      "end_time": 2110,
+      "annotation": [
+        {
+          "text": "Alexander responds to Williams;"
+        }
+      ],
+      "tags": [],
+      "uuid": "d0cf6179-a51d-4ba4-86d4-0fb780a996fa"
+    },
+    {
+      "start_time": 2110,
+      "end_time": 2192,
+      "annotation": [
+        {
+          "text": "14"
+        }
+      ],
+      "tags": [],
+      "uuid": "afc4188e-4209-4381-9cb8-77b0286b52bc"
+    },
+    {
+      "start_time": 2110,
+      "end_time": 2192,
+      "annotation": [
+        {
+          "text": "Williams responds to Alexander;"
+        }
+      ],
+      "tags": [],
+      "uuid": "4d8ff816-2f59-43a2-8c0d-3e049f521b70"
+    },
+    {
+      "start_time": 2192,
+      "end_time": 2280,
+      "annotation": [
+        {
+          "text": "15"
+        }
+      ],
+      "tags": [],
+      "uuid": "8a03cf72-16c9-4b93-ad5f-a9101dc5e6bb"
+    },
+    {
+      "start_time": 2192,
+      "end_time": 2280,
+      "annotation": [
+        {
+          "text": "Aubert responds to Williams;"
+        }
+      ],
+      "tags": [],
+      "uuid": "efb9e960-53fc-477d-b11b-b284e7511455"
+    },
+    {
+      "start_time": 2280,
+      "end_time": 2310,
+      "annotation": [
+        {
+          "text": "16"
+        }
+      ],
+      "tags": [],
+      "uuid": "6428e574-1bd2-4f44-b8bf-353cb30a2fb4"
+    },
+    {
+      "start_time": 2280,
+      "end_time": 2310,
+      "annotation": [
+        {
+          "text": "Williams responds;"
+        }
+      ],
+      "tags": [],
+      "uuid": "36407236-bedd-49e2-a2f2-7f0a813db509"
+    },
+    {
+      "start_time": 2310,
+      "end_time": 2535,
+      "annotation": [
+        {
+          "text": "17"
+        }
+      ],
+      "tags": [],
+      "uuid": "2dd94166-086d-4baa-8176-312591e046dc"
+    },
+    {
+      "start_time": 2310,
+      "end_time": 2535,
+      "annotation": [
+        {
+          "text": "Traylor interjects;"
+        }
+      ],
+      "tags": [],
+      "uuid": "dda03811-7e1d-4208-ba28-e49fcc783c8a"
+    },
+    {
+      "start_time": 2535,
+      "end_time": 3047,
+      "annotation": [
+        {
+          "text": "18"
+        }
+      ],
+      "tags": [],
+      "uuid": "4edd4826-4033-4675-9be8-309f1c62d412"
+    },
+    {
+      "start_time": 2535,
+      "end_time": 3047,
+      "annotation": [
+        {
+          "text": "Unidentified audience member asks that the panel discusses the future of African American poetry;"
+        }
+      ],
+      "tags": [],
+      "uuid": "536bff76-e8a7-42ac-94ac-5545eea0cfc6"
+    },
+    {
+      "start_time": 3047,
+      "end_time": 3220,
+      "annotation": [
+        {
+          "text": "19"
+        }
+      ],
+      "tags": [],
+      "uuid": "cbe6d4bf-c15e-4fa5-ada8-4e6bdd8fb18d"
+    },
+    {
+      "start_time": 3047,
+      "end_time": 3220,
+      "annotation": [
+        {
+          "text": "Monifa Love addresses panel;"
+        }
+      ],
+      "tags": [],
+      "uuid": "1ce8be70-2784-4836-a545-2135bed50c39"
+    },
+    {
+      "start_time": 3220,
+      "end_time": 3490,
+      "annotation": [
+        {
+          "text": "20"
+        }
+      ],
+      "tags": [],
+      "uuid": "4fe23b19-6bbb-4afd-a27b-85051684a911"
+    },
+    {
+      "start_time": 3220,
+      "end_time": 3490,
+      "annotation": [
+        {
+          "text": "Mylea Thompson addresses panel;"
+        }
+      ],
+      "tags": [],
+      "uuid": "e54a51af-08db-48b2-8681-86470e70b69d"
+    }
+  ]
+}

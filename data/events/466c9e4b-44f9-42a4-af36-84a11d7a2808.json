@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "f7d8f345-3e40-4f1e-ac63-11da04f8e7d5": {
+      "label": "",
+      "file_url": "https://aviary-p-jmu.s3.wasabisys.com/collection_resource_files/resource_files/000/214/770/original/open-uri20231107-480-fyyap9.mp4?1699365267",
+      "duration": 3547.165
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-10-17T18:20:52.167Z",
+  "created_by": "JMU-AudiAnnotate",
+  "item_type": "Video",
+  "label": "Imported Event 2",
+  "updated_at": "2024-10-17T18:20:52.167Z",
+  "updated_by": "JMU-AudiAnnotate"
+}
