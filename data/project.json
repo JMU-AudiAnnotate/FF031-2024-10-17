@@ -17,10 +17,92 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Nonspeech",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Genre",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Sherley Anne Williams",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Alvin Aubert",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Joanne V. Gabbin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Darrell Stover",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Elizabeth Alexander",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Eleanor W. Traylor",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Shahara Brookins Drew",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Adam David Miller",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Monifa A. Love",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Mylea Thompson",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Unknown",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Laughter",
+          "category": "Nonspeech"
+        },
+        {
+          "tag": "Applause",
+          "category": "Nonspeech"
+        },
+        {
+          "tag": "Panel Presentation",
+          "category": "Genre"
+        },
+        {
+          "tag": "Dialogue",
+          "category": "Genre"
+        },
+        {
+          "tag": "Song",
+          "category": "Genre"
+        },
+        {
+          "tag": "Audience",
+          "category": "Speaker"
+        }
+      ]
     },
     "created_at": "2024-10-17T18:06:09.765Z",
-    "updated_at": "2024-10-17T18:07:10.909Z"
+    "updated_at": "2024-10-17T18:08:54.219Z"
   }
 }
