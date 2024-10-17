@@ -12,8 +12,8 @@
     "language": "en",
     "slug": "FF031-2024-10-17",
     "creator": "JMU-AudiAnnotate",
-    "authors": "Furious Flower Poetry  Center",
-    "media_player": "avannotate",
+    "authors": "Furious Flower Poetry Center",
+    "media_player": "universal",
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
@@ -115,6 +115,6 @@
       ]
     },
     "created_at": "2024-10-17T18:06:09.765Z",
-    "updated_at": "2024-10-17T18:09:58.194Z"
+    "updated_at": "2024-10-17T18:11:42.771Z"
   }
 }
